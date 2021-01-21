@@ -7,5 +7,7 @@ elif (c == 2):
     print(f'Difference is ', a - b)
 elif (c == 3):
     print(f'Product is ', a * b)
-else:
+elif (c == 4):
     print(f'Quotient is ', a / b)
+else:
+    print(f'Invalid Option selected')
